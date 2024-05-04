@@ -1,9 +1,11 @@
 # BeatBox
 
 ## General Description
+
 A Scala game where enemies will follow a specific path to the headquarter, and player has to place gun towers along the path to defense. The game progress can be saved to be continued playing later, and after the game end, the records will be saved for leaderboard statistics.
 
 ## Components
+
 - Arduino Nano
 - CMS-28528N-L152B speaker
 - Bbreadboard
@@ -12,6 +14,7 @@ A Scala game where enemies will follow a specific path to the headquarter, and p
 - ADXL335 acceleromete
 
 ## Features
+
 - After a user's punch, the device produce a melodic note in
 response to the motion. The sequence of played notes is harmonized into a song; hence, users
 can compose melodies, turning every interaction into a musical masterpiece.
@@ -21,6 +24,11 @@ frequency and set goals for improvement. The feedback provided by BeatBox enable
 make informed decisions about their training routine, fostering a sense of achievement and
 progress.
 
+## Acknowledgement
+
+- This is a group project that was done with the instruction of the professor and teaching assistants of the course _ELEC-C9801 - Design Thinking and Electronic Prototyping_ at Aalto University
+- Other contributers are [Dinh Bach Tue](https://www.linkedin.com/in/bachtuedinh/) and [Tran Ha Quang Minh](https://www.linkedin.com/in/tran-ha-quang-minh-28b8052a4/)
+- 
 ## Some images
 
 <p align="center">
