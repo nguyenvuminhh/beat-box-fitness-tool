@@ -28,7 +28,7 @@ progress.
 
 - This is a group project that was done with the instruction of the professor and teaching assistants of the course _ELEC-C9801 - Design Thinking and Electronic Prototyping_ at Aalto University
 - Other contributers are [Dinh Bach Tue](https://www.linkedin.com/in/bachtuedinh/) and [Tran Ha Quang Minh](https://www.linkedin.com/in/tran-ha-quang-minh-28b8052a4/)
-- 
+
 ## Some images
 
 <p align="center">
