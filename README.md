@@ -2,8 +2,7 @@
 
 ## General Description
 
-A Scala game where enemies will follow a specific path to the headquarter, and player has to place gun towers along the path to defense. The game progress can be saved to be continued playing later, and after the game end, the records will be saved for leaderboard statistics.
-
+An Arduino project that helps people engage more in physical activities. It is a device that is strapped to the user's wrist like a watch. After being turned on, it will detect the user's punches, then play a note in a song. These played notes when put together will create a song, and the song can be set by importing it via USB cabel.
 ## Components
 
 - Arduino Nano
